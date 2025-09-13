@@ -21,7 +21,7 @@ public class Empleado extends javax.swing.JFrame {
     CreateConection conexionPostgres = new CreateConection();
     Connection con;
     
-    //hola mundo
+    //salmon 
 
     public Empleado()throws SQLException {
         initComponents();
